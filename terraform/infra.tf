@@ -6,7 +6,7 @@ terraform {
 }
 
 provider "google" {
-  project = "grey-sort-challenge"
+  project = "cohesive-gadget-166410"
 }
 
 resource "google_storage_bucket" "funky-bucket" {
